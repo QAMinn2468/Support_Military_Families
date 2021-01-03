@@ -8,6 +8,7 @@ This project is close to my heart as I am a 20 year military spouse.  It wasn't 
 that I realized the depth and breadth of my service and that of our children.  
 
 For support as a military spouse in tech: https://www.facebook.com/MilSpouseCoders/
+
 For support as a woman in tech: https://www.facebook.com/groups/techladies
 
 There are many other groups out there, good luck!

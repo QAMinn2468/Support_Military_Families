@@ -1,5 +1,5 @@
 # Support_Military_Families
-A website to prractice my HTML, CSS, and JavaScript skills
+A website to prractice my HTML, CSS, and JavaScript skills.  To view: https://qaminn2468.github.io/Support_Military_Families/
 
 I have been working as a Software Test Engineer for over 2 years now and my HTML, CSS, and JavaScript skills had been rarely used in that time.
 With the fresh new year I was inspired to create this webpage.  In addition, A11y and responsiveness were considered.
